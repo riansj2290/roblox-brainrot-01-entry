@@ -21,9 +21,11 @@ one to buy it, it flies to your base and the cash ticks up in the HUD.
 1. In Studio: **File → Publish to Roblox As… → Create New Experience**.
 2. Name it **Steal a Snack**.
 3. Description: write a short description of the game, and paste in the **play
-   code** (ask the assistant for it — it looks like `makefun-xxx-xxx-xxx`).
-   Roblox refuses descriptions that read like a web address, so do not put
-   `make.fun` in it.
+   code** exactly as it stands:
+   **`makefun-sunbeam-hay-hemlock`**
+   (If Roblox refuses the description with this one, ask the assistant for
+   another code — there are 4.) Roblox refuses descriptions that read like a
+   web address, so do not put `make.fun` in it.
 4. On the Creator Dashboard (https://create.roblox.com/dashboard/creations),
    open the experience → **Configure**: set a genre, answer the content
    questions (a simple game is about fifteen answers, or one question if you
