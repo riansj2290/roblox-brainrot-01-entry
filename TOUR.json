@@ -1,0 +1,1 @@
+{"steps":[{"screenshot":"1-start.png"},{"keys":["W"],"screenshot":"2-play.png","wait_ms":2000},{"call":{"arg":"1","fn":"spawnThief","module":"ReplicatedStorage.Shared.Tour","on":"Server"},"screenshot":"3-steal.png"},{"call":{"arg":"100000","fn":"grantMoney","module":"ReplicatedStorage.Shared.Tour","on":"Server"},"screenshot":"4-rebirth.png"}],"tour":1}
